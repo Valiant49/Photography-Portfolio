@@ -1,0 +1,22 @@
+.flex-container {
+    height: 80vh;
+}
+
+.profile-details {
+    width: 50%;
+}
+
+.profile-container h1{
+    padding: 2rem;
+    margin: 8rem auto;
+    margin-bottom: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#description {
+    width: 500px;
+    margin:  auto;
+    box-sizing: border-box;
+    text-align: justify;
+}

@@ -1,0 +1,59 @@
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.contact-form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-form h1 {
+    margin-bottom: 0 auto;
+}
+
+.contact-form h1,
+#email-address {
+    text-align: center;
+    margin: 2rem 0;
+    margin-top: 0;
+}
+
+.form-container {
+    width: 100%;
+    max-width: 1000px; /*change this one to change form width*/
+    padding: 2rem;
+}
+
+.inputs-wrapper {
+    width: 100%;
+}
+
+.input-divs {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.inputs > input, 
+.inputs > textarea {
+    width: 100%;
+    height: 50px;
+    padding: 8px 12px;
+    box-sizing: border-box;
+}
+
+.submit-button {
+    width: 100%;
+    padding: 1rem;
+    margin-top: 2rem;
+}
