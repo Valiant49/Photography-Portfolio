@@ -13,7 +13,7 @@ body {
 .hero{
     height: 20vh;
     width: 150%;
-    background-image: url("../imgs/groupy.jpg");
+    background-image: url("../imgs/groupy.png");
     background-size: cover;
     margin: 0%;
     padding: 0%;
@@ -136,6 +136,10 @@ img {
 
 .box .tall{
     grid-row: span 2;
+}
+
+.box .taller{
+    grid-row: span 3;
 }
 
 .box .big{
