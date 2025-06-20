@@ -3,6 +3,96 @@ const picData = {
         cover: "Pic1.webp",
         description: "Author to | Date to",
     },
+
+    pic2: {
+        cover: "",
+        description: "",
+    },
+
+    pic3: {
+        cover: "",
+        description: "",
+    },
+
+    pic4: {
+        cover: "",
+        description: "",
+    },
+
+    pic5: {
+        cover: "",
+        description: "",
+    },
+
+    pic6: {
+        cover: "",
+        description: "",
+    },
+
+    pic7: {
+        cover: "",
+        description: "",
+    },
+
+    pic8: {
+        cover: "",
+        description: "",
+    },
+
+    pic9: {
+        cover: "",
+        description: "",
+    },
+
+    pic10: {
+        cover: "",
+        description: "",
+    },
+
+    pic11: {
+        cover: "",
+        description: "",
+    },
+
+    pic12: {
+        cover: "",
+        description: "",
+    },
+
+    pic13: {
+        cover: "",
+        description: "",
+    },
+
+    pic14: {
+        cover: "",
+        description: "",
+    },
+
+    pic15: {
+        cover: "",
+        description: "",
+    },
+
+    pic16: {
+        cover: "",
+        description: "",
+    },
+
+    pic17: {
+        cover: "",
+        description: "",
+    },
+
+    pic18: {
+        cover: "",
+        description: "",
+    },
+
+    pic19: {
+        cover: "",
+        description: "",
+    },
 }
 
 function openPicModal(picId) {
