@@ -1,6 +1,6 @@
 const picData = {
     pic1: {
-        cover: "Pic1.webp",
+        cover: "./imgs/afternoon-clouds-1.webp",
         description: "Author to | Date to",
     },
 
