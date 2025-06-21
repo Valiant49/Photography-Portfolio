@@ -5,92 +5,92 @@ const picData = {
     },
 
     pic2: {
-        cover: "",
+        cover: "./imgs/bread-1.webp",
         description: "",
     },
 
     pic3: {
-        cover: "",
+        cover: "./imgs/456-hotel-food-1.webp",
         description: "",
     },
 
     pic4: {
-        cover: "",
+        cover: "./imgs/cvsu-indang-sky.webp",
         description: "",
     },
 
     pic5: {
-        cover: "",
+        cover: "./imgs/batangas-waters.webp",
         description: "",
     },
 
     pic6: {
-        cover: "",
+        cover: "./imgs/baguio-market.webp",
         description: "",
     },
 
     pic7: {
-        cover: "",
+        cover: "./imgs/food-in-a-container.webp",
         description: "",
     },
 
     pic8: {
-        cover: "",
+        cover: "./imgs/38th-street.webp",
         description: "",
     },
 
     pic9: {
-        cover: "",
+        cover: "./imgs/tff-yang-chow-rice.webp",
         description: "",
     },
 
     pic10: {
-        cover: "",
+        cover: "./imgs/456-hotel.webp",
         description: "",
     },
 
     pic11: {
-        cover: "",
+        cover: "./imgs/camp-john-hay-amphitheater.webp",
         description: "",
     },
 
     pic12: {
-        cover: "",
+        cover: "./imgs/church-facade.webp",
         description: "",
     },
 
     pic13: {
-        cover: "",
+        cover: "./imgs/clouds-1.webp",
         description: "",
     },
 
     pic14: {
-        cover: "",
+        cover: "./imgs/sunset-orange.webp",
         description: "",
     },
 
     pic15: {
-        cover: "",
+        cover: "./imgs/sunset-orange.webp",
         description: "",
     },
 
     pic16: {
-        cover: "",
+        cover: "./imgs/456-hotel-food.webp",
         description: "",
     },
 
     pic17: {
-        cover: "",
+        cover: "./imgs/cvsu-indang-resort.webp",
         description: "",
     },
 
     pic18: {
-        cover: "",
+        cover: "./imgs/house-by-the-cliff.webp",
         description: "",
     },
 
     pic19: {
-        cover: "",
+        cover: "./imgs/mukbang.webp",
         description: "",
     },
 }
